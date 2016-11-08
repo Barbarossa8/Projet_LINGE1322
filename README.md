@@ -1,4 +1,4 @@
-# Projet_LINGE1322
+# Project LINGE1322 Car rental
 
 ## Synopsis
 
