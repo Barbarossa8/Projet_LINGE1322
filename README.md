@@ -18,7 +18,9 @@ Cette petite application va donc vous permettre de gérer une base de données (
 - Dans la barre d’adresse taper : `localhost/Projet_LINGE1322/Site/index.php` ce qui vous enverra directement à la page d’accueil.
 
 - Si vous voulez jeter un oeil à la base de données, il vous suffit de vous rendre à l’adresse : `localhost/dashboard/` et de cliquer sur le bouton phpmyadmin.
+
 - Il vous faudra importer le fichier `Denauw-Antoine-DB-Projet1322.sql` en cliquant sur l’onglet `Importer` de phpmyadmin.
+
 - Une fois sur la page de phpmyadmin, vous pourrez voir la base de données Projet_LINGE1322 avec les tables que j’ai ajoutées et les données.
 
 ## License
